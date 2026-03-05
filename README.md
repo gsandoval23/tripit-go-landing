@@ -1,4 +1,4 @@
-# Tripit GO – UX/UI Case Study
+# Tripit GO – UX/UI Caso de Estudio - Bootcamp UX/UI 
 
 Plataforma digital que conecta viajeros con guías locales para descubrir experiencias auténticas fuera del circuito turístico tradicional.
 
