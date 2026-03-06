@@ -1,4 +1,4 @@
-# Tripit GO — UX/UI Case Study
+# Tripit GO — UX/UI 
 
 ## Plataforma para descubrir experiencias locales auténticas
 
