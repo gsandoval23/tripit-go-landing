@@ -1,170 +1,204 @@
-Tripit GO — UX/UI Case Study
-Plataforma para descubrir experiencias locales auténticas
+# Tripit GO — UX/UI Case Study
+
+## Plataforma para descubrir experiencias locales auténticas
 
 Tripit GO es una plataforma digital diseñada para conectar viajeros con guías locales que ofrecen experiencias auténticas fuera del circuito turístico tradicional.
 
-El proyecto nace a partir de una observación común en el turismo actual: muchos viajeros terminan visitando siempre los mismos lugares turísticos o participando en experiencias diseñadas para el turismo masivo, lo que limita el contacto real con la cultura local.
+El proyecto surge a partir de una observación común en el turismo actual: muchos viajeros terminan visitando siempre los mismos lugares turísticos o participando en experiencias diseñadas para el turismo masivo. Esto limita el contacto real con la cultura local.
 
-Tripit GO busca cambiar esa dinámica permitiendo que personas locales puedan ofrecer experiencias auténticas, generando un vínculo más directo entre viajeros y comunidades locales.
+Tripit GO propone un modelo diferente, donde personas locales pueden ofrecer experiencias auténticas y cercanas, permitiendo a los viajeros descubrir una ciudad desde la perspectiva de quienes viven en ella.
 
-Problema
+---
 
-Muchos viajeros buscan experiencias más auténticas cuando visitan una ciudad, pero enfrentan varios problemas:
+# Problema
 
-• Las plataformas tradicionales ofrecen actividades muy similares entre sí.
-• Gran parte de las experiencias están diseñadas para el turismo masivo.
-• Es difícil encontrar actividades realmente locales o guiadas por personas del lugar.
+Muchos viajeros enfrentan dificultades al intentar encontrar experiencias locales auténticas.
 
-Esto genera una oportunidad para diseñar una plataforma que permita descubrir experiencias culturales reales y conectar con personas locales.
+Entre los principales problemas detectados:
 
-Objetivo del proyecto
+- Las plataformas tradicionales ofrecen actividades muy similares entre sí.
+- Gran parte de las experiencias están diseñadas para el turismo masivo.
+- Es difícil encontrar actividades guiadas por personas locales reales.
 
-Diseñar una solución digital que permita:
+Esto genera una oportunidad para crear una plataforma que facilite descubrir experiencias culturales genuinas.
 
-• Descubrir experiencias locales únicas
-• Conectar viajeros con guías locales certificados
-• Facilitar la reserva de actividades de forma simple
-• Generar mayor confianza en las recomendaciones de experiencias
+---
 
-Investigación
+# Objetivo del proyecto
 
-Durante la fase inicial del proyecto se realizó un análisis del mercado y del comportamiento de los usuarios.
+Diseñar una plataforma digital que permita:
 
-Se estudiaron plataformas existentes como:
+- Descubrir experiencias locales únicas
+- Conectar viajeros con guías locales
+- Facilitar la reserva de actividades
+- Generar confianza en las recomendaciones
 
-• GetYourGuide
-• Booking
-• Airbnb Experiences
+---
 
-El análisis permitió identificar que muchas experiencias disponibles siguen una lógica de turismo tradicional, lo que deja espacio para un modelo más cercano a las experiencias locales auténticas.
+# Investigación
 
-Mapa de empatía
+Durante la fase inicial se realizó un análisis del mercado y del comportamiento de los usuarios.
+
+Se analizaron plataformas como:
+
+- GetYourGuide
+- Booking
+- Airbnb Experiences
+
+El análisis permitió identificar que muchas experiencias disponibles siguen una lógica de turismo tradicional, lo que abre espacio para modelos más auténticos y locales.
+
+---
+
+# Mapa de empatía
 
 Para comprender mejor al usuario objetivo se desarrolló un mapa de empatía.
 
-El perfil principal identificado fue el de un viajero explorador, caracterizado por:
+El perfil principal identificado fue el de un **viajero explorador**, caracterizado por:
 
-• Interés por experiencias culturales reales
-• Preferencia por conocer lugares fuera del circuito turístico tradicional
-• Valoración del contacto con personas locales
+- Interés por experiencias culturales reales
+- Preferencia por lugares fuera del circuito turístico
+- Interacción con personas locales
 
-(Aquí puedes insertar imagen del mapa de empatía)
+![Mapa de empatía](portfolio/img/empathy-map.png)
 
-Customer Journey
+---
 
-Se desarrolló un Customer Journey para entender las etapas que vive un usuario al buscar una experiencia turística.
+# Customer Journey
 
-El análisis permitió identificar puntos clave como:
+Se construyó un Customer Journey para entender el proceso que vive un viajero al buscar experiencias.
 
-• Descubrimiento de experiencias
-• Comparación de actividades
-• Generación de confianza en el guía
-• Decisión de reserva
+Las etapas principales identificadas fueron:
 
-Este ejercicio permitió detectar oportunidades para mejorar la claridad de la información y la confianza en la plataforma.
+1. Inspiración del viaje
+2. Búsqueda de experiencias
+3. Comparación de actividades
+4. Reserva
+5. Experiencia vivida
 
-(Aquí puedes insertar imagen del Customer Journey)
+Este ejercicio permitió detectar oportunidades de mejora en la confianza del usuario y en la claridad de la información.
 
-Ideación
+![Customer Journey](portfolio/img/customer-journey.png)
 
-Durante la etapa de ideación se exploraron distintas formas de conectar viajeros con experiencias locales.
+---
 
-Se realizaron sesiones de brainstorming para definir funcionalidades clave de la plataforma, como:
+# Ideación
 
-• buscador de experiencias
-• perfiles de guías locales
-• sistema de valoración de experiencias
-• categorías de actividades
+Durante la etapa de ideación se realizaron sesiones de brainstorming para definir posibles funcionalidades de la plataforma.
 
-Wireframes
+Algunas de las ideas exploradas fueron:
+
+- buscador de experiencias
+- perfiles de guías locales
+- sistema de valoración de actividades
+- recomendaciones personalizadas
+
+---
+
+# Wireframes
 
 Se desarrollaron wireframes iniciales para definir la estructura de la plataforma.
 
 Estos wireframes permitieron:
 
-• organizar la arquitectura de información
-• definir jerarquía visual
-• estructurar el flujo de navegación
+- organizar la arquitectura de información
+- definir jerarquía visual
+- estructurar el flujo de navegación
 
-(Aquí puedes insertar imagen de wireframes)
+![Wireframes](portfolio/img/wireframes.png)
 
-Prototipos
+---
 
-Posteriormente se desarrollaron prototipos de mayor fidelidad que permitieron visualizar la experiencia del usuario.
+# Prototipos
+
+Posteriormente se desarrollaron prototipos de mayor fidelidad utilizando Figma.
 
 El prototipo incluye pantallas como:
 
-• pantalla de inicio
-• exploración de experiencias
-• detalle de actividad
-• proceso de reserva
+- página de inicio
+- exploración de experiencias
+- detalle de actividad
+- proceso de reserva
 
-El diseño siguió principios de usabilidad basados en heurísticas de Nielsen, priorizando simplicidad y claridad de interacción.
+![Prototipo](portfolio/img/prototype.png)
 
-(Aquí puedes insertar imagen de prototipo)
+---
 
-Desarrollo de la landing page
+# Desarrollo de la landing page
 
 Como parte del proyecto se desarrolló una landing page funcional utilizando:
 
-• HTML
-• CSS
-• Visual Studio Code
+- HTML
+- CSS
+- Visual Studio Code
 
-La landing permite presentar el concepto del producto y explorar la propuesta de valor de la plataforma.
+La landing presenta la propuesta de valor del producto y permite explorar el concepto de la plataforma.
 
-Iteración y mejoras
+![Landing inicial](portfolio/img/landing-inicial.png)
 
-Durante la fase de revisión del producto se aplicaron mejoras de diseño y usabilidad.
+---
+
+# Iteración y mejoras
+
+Durante la revisión del producto se aplicaron mejoras de diseño y usabilidad.
 
 Entre ellas:
 
-• incorporación de una imagen en el hero para reforzar el concepto turístico
-• mejora de contraste para aumentar la legibilidad del texto
-• cambio del término “pasajeros” a “viajeros” para mayor claridad conceptual
-• incorporación de estrellas en testimonios para aumentar confianza
-• ajustes de hover y comportamiento de botones
-• mejora en la alineación del buscador
+- incorporación de imagen en el hero
+- mejora de contraste para mayor legibilidad
+- cambio de "pasajeros" a "viajeros"
+- incorporación de estrellas en testimonios
+- mejoras en hover de botones
+- ajustes de alineación del buscador
 
-Estas mejoras permitieron optimizar la experiencia del usuario y mejorar la claridad visual del producto.
+Estas mejoras permitieron optimizar la experiencia del usuario.
 
-Versión inicial vs versión mejorada
+![Landing final](portfolio/img/landing-final.png)
+
+---
+
+# Versión inicial vs versión mejorada
 
 El repositorio incluye dos versiones del proyecto:
 
-Versión inicial
-Prototipo base con la estructura inicial del producto.
+**Versión inicial**
 
-Versión mejorada
-Versión optimizada con mejoras de usabilidad, diseño visual y claridad de contenidos.
+Primera versión del diseño y estructura de la landing.
 
-Esto permite visualizar la evolución del diseño a lo largo del proceso.
+**Versión mejorada**
 
-Resultado final
+Versión optimizada con mejoras de usabilidad y diseño visual.
 
-El resultado final es una landing page funcional que presenta la propuesta de valor del producto y permite explorar el concepto de la plataforma.
+Esto permite visualizar la evolución del producto durante el proceso de diseño.
 
-Demo del proyecto:
+---
+
+# Demo del proyecto
+
+Puedes ver la landing publicada aquí:
 
 https://gsandoval23.github.io/tripit-go-landing/
 
-Tecnologías utilizadas
+---
 
-• Figma
-• HTML
-• CSS
-• Visual Studio Code
-• GitHub
+# Tecnologías utilizadas
 
-Aprendizajes
+- Figma
+- HTML
+- CSS
+- Visual Studio Code
+- GitHub
+
+---
+
+# Aprendizajes
 
 Este proyecto permitió aplicar metodologías de diseño centrado en el usuario, combinando investigación UX, diseño de interacción y desarrollo front-end.
 
 El proceso de iteración fue clave para mejorar la claridad del producto y optimizar la experiencia del usuario.
 
-Sobre el autor
+---
 
-Gabriel Sandoval
+# Autor
+
+Gabriel Sandoval  
 UX/UI Designer
-
-Proyecto desarrollado como parte del Bootcamp de Diseño UX/UI.
