@@ -59,7 +59,6 @@ El perfil principal identificado fue el de un **viajero explorador**, caracteriz
 - Preferencia por lugares fuera del circuito turístico
 - Interacción con personas locales
 
-![Mapa de empatía](portfolio/img/empathy-map.png)
 
 ---
 
@@ -77,7 +76,6 @@ Las etapas principales identificadas fueron:
 
 Este ejercicio permitió detectar oportunidades de mejora en la confianza del usuario y en la claridad de la información.
 
-![Customer Journey](portfolio/img/customer-journey.png)
 
 ---
 
@@ -104,7 +102,6 @@ Estos wireframes permitieron:
 - definir jerarquía visual
 - estructurar el flujo de navegación
 
-![Wireframes](portfolio/img/wireframes.png)
 
 ---
 
@@ -119,7 +116,6 @@ El prototipo incluye pantallas como:
 - detalle de actividad
 - proceso de reserva
 
-![Prototipo](portfolio/img/prototype.png)
 
 ---
 
@@ -133,7 +129,6 @@ Como parte del proyecto se desarrolló una landing page funcional utilizando:
 
 La landing presenta la propuesta de valor del producto y permite explorar el concepto de la plataforma.
 
-![Landing inicial](portfolio/img/landing-inicial.png)
 
 ---
 
@@ -151,8 +146,6 @@ Entre ellas:
 - ajustes de alineación del buscador
 
 Estas mejoras permitieron optimizar la experiencia del usuario.
-
-![Landing final](portfolio/img/landing-final.png)
 
 ---
 
